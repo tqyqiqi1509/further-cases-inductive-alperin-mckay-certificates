@@ -1,0 +1,8 @@
+{
+  "source_archive": "Further_Cases_iAM_Source_and_Audit_20261114.zip",
+  "source_archive_sha256": "656cc17d7059067b74cc4d6dc795af3e106b2c4abeab80f2525fe0123aab9859",
+  "all_original_program_and_output_bytes_preserved": true,
+  "source_program_count": 9,
+  "packaging_check": "All nine source programs and recorded outputs present; JSON files parse; both GAP completion markers present; no missing custom input files identified.",
+  "not_a_new_calculation_run": true
+}

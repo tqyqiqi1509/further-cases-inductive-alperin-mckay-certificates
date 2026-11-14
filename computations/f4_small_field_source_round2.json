@@ -1,0 +1,69 @@
+{
+  "cases": [
+    {
+      "q": 4,
+      "epsilon": 1,
+      "a": 1,
+      "orientation": "long_A2_twist",
+      "A_order": 27,
+      "A_invariant_factors": [
+        3,
+        9
+      ],
+      "D_order": 81,
+      "commutator_order": 9,
+      "second_commutator_image_order": 3,
+      "annihilating_roots": 0,
+      "pointwise_W_stabilizer": 1
+    },
+    {
+      "q": 8,
+      "epsilon": -1,
+      "a": 2,
+      "orientation": "long_A2_twist",
+      "A_order": 243,
+      "A_invariant_factors": [
+        9,
+        27
+      ],
+      "D_order": 729,
+      "commutator_order": 81,
+      "second_commutator_image_order": 27,
+      "annihilating_roots": 0,
+      "pointwise_W_stabilizer": 1
+    },
+    {
+      "q": 4,
+      "epsilon": 1,
+      "a": 1,
+      "orientation": "short_A2_twist",
+      "A_order": 27,
+      "A_invariant_factors": [
+        3,
+        9
+      ],
+      "D_order": 81,
+      "commutator_order": 9,
+      "second_commutator_image_order": 3,
+      "annihilating_roots": 0,
+      "pointwise_W_stabilizer": 1
+    },
+    {
+      "q": 8,
+      "epsilon": -1,
+      "a": 2,
+      "orientation": "short_A2_twist",
+      "A_order": 243,
+      "A_invariant_factors": [
+        9,
+        27
+      ],
+      "D_order": 729,
+      "commutator_order": 81,
+      "second_commutator_image_order": 27,
+      "annihilating_roots": 0,
+      "pointwise_W_stabilizer": 1
+    }
+  ],
+  "scope": "At q=4,8 the mixed torus has the required abelian A; the Weyl lift constructs A semidirect C3, its commutator is noncentral, and the algebraic centralizer of A is exactly the torus. Character theory and block identification are separate arguments."
+}

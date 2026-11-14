@@ -1,0 +1,10 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Out[1]= <|\"WOrder\" -> 16, \"ROrder\" -> 96, \"P2Z\" -> True, \"H2i\" -> True, \"HP3\" -> True, \"ReflectionCount\" -> 6, \"CentralizerOrders\" -> {16, 16, 16, 16, 16, 16}, \"CentralizersAbelian\" -> True|>"
+    }
+  ],
+  "structuredContent": null,
+  "isError": false
+}

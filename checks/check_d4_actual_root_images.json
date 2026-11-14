@@ -1,0 +1,20 @@
+{
+  "D4WeylOrder": 192,
+  "D4RootAutomorphismOrder": 1152,
+  "3": {
+    "root_centralizer_order": 36,
+    "weyl_centralizer_order": 6,
+    "cyclotomic_image_order": 6,
+    "image_is_C6": true
+  },
+  "4": {
+    "root_centralizer_order": 96,
+    "weyl_centralizer_order": 16
+  },
+  "6": {
+    "root_centralizer_order": 36,
+    "weyl_centralizer_order": 6,
+    "cyclotomic_image_order": 6,
+    "image_is_C6": true
+  }
+}

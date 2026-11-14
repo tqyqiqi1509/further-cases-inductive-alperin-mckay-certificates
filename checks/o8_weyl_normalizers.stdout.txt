@@ -1,0 +1,14 @@
+WEYL|degree=240|order=696729600|derived=348364800|centre=2
+ACTUAL_NORMALIZER|p=3|P=243|N=1944|H=3888|C=18|ZP=9|NmodP=
+[ 8, 2, 8, 1, [ 2, 2, 2 ] ]
+FAITHFUL_LOCAL|p=3|rows=[ 3, 5, 6, 8, 9, 11, 13, 14, 15, 16, 22, 23, 26, 27, 
+  29, 30, 33, 35 ]|degree_collection=[ [ 1, 4 ], [ 2, 10 ], [ 4, 4 ] 
+ ]|outer_orbits=[ [ 1, 12 ], [ 2, 3 ] ]|images=
+[ 3, 5, 6, 8, 9, 11, 13, 14, 15, 16, 26, 27, 22, 23, 29, 30, 35, 33 ]
+ACTUAL_NORMALIZER|p=5|P=25|N=800|H=1600|C=50|ZP=25|NmodP=
+[ 32, 4, 8, 2, [ 2, 2, 4 ] ]
+FAITHFUL_LOCAL|p=5|rows=[ 9, 10, 11, 12, 13, 14, 15, 16, 19, 20, 22, 24, 29, 
+  30, 31, 32 ]|degree_collection=[ [ 1, 8 ], [ 2, 2 ], [ 8, 6 ] 
+ ]|outer_orbits=[ [ 1, 8 ], [ 2, 4 ] ]|images=
+[ 10, 9, 11, 12, 13, 14, 16, 15, 19, 20, 22, 24, 32, 31, 30, 29 ]
+FRESH_O8_COMPLETE

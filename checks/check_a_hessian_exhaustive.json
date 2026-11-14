@@ -1,0 +1,157 @@
+{
+  "field": "GF(4), w^2+w+1=0",
+  "enumerated_matrices": 262144,
+  "GL3_order": 181440,
+  "E_order": 27,
+  "exhaustive_normalizer_order": 648,
+  "exhaustive_normalizer_equals_generated_and_unitary": true,
+  "special_normalizer_order": 216,
+  "field_times_graph_centralizes_normalizer": true,
+  "augmentation_results": [
+    {
+      "n": 2,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 2,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 2,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 2,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 3,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 3
+    },
+    {
+      "n": 3,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 3,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 3,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 4,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 4,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 4,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 4,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 5,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 5,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 5,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 5,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 6,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 6,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 6,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 6,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 7,
+      "ell": 3,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 7,
+      "ell": 3,
+      "a": 2,
+      "kernel_order": 1
+    },
+    {
+      "n": 7,
+      "ell": 5,
+      "a": 1,
+      "kernel_order": 1
+    },
+    {
+      "n": 7,
+      "ell": 5,
+      "a": 2,
+      "kernel_order": 1
+    }
+  ],
+  "scope": "Matrix normalizers and finite augmentation kernels only; not an iAM certificate."
+}

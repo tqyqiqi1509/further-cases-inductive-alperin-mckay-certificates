@@ -1,0 +1,72 @@
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:1567
+      cand:= AllPrimitiveGroups(
+             ^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:1577
+      cand:= AllPrimitiveGroups(
+             ^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2095
+    if IdGroupsAvailable( n ) then
+       ^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2131
+        result:= IdsOfAllSmallGroups( Size, n,
+                 ^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2145
+        UnloadSmallGroupsData();
+        ^^^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2257
+    cand:= AllTransitiveGroups(
+           ^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2565
+    soclefactor:= First( AllSmallGroups( Size, Size( soclefactor ) ),
+                         ^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2667
+    centre:= Filtered( AllSmallGroups( Size, Length( nsg ), IsAbelian, true ),
+                       ^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:27
+   reg:=Filtered([1..Length(vv)],j->OrdersClassRepresentatives(t)[j] mod ell<>\
+0);;
+                                                               ^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:31
+     zero:=Filtered(ids,j->Val63(vv[j][1],ell)=ppart-bb.defect[b]);;
+                                 ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:31
+     zero:=Filtered(ids,j->Val63(vv[j][1],ell)=ppart-bb.defect[b]);;
+                                               ^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:31
+     zero:=Filtered(ids,j->Val63(vv[j][1],ell)=ppart-bb.defect[b]);;
+                                                     ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:32
+     colours:=Collected(List(zero,j->List(zz,z->vv[j][z]/vv[j][1])));;
+                                          ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:32
+     colours:=Collected(List(zero,j->List(zz,z->vv[j][z]/vv[j][1])));;
+                                                ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:32
+     colours:=Collected(List(zero,j->List(zz,z->vv[j][z]/vv[j][1])));;
+                                                         ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:38
+      "|k=",Length(ids),"|k0=",Length(zero),"|l=",RankMat(List(ids,j->vv[j]{re\
+g})),
+                                                                      ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_global_blocks.g:38
+      "|k=",Length(ids),"|k0=",Length(zero),"|l=",RankMat(List(ids,j->vv[j]{re\
+g})),
+                                                                            ^^\
+^

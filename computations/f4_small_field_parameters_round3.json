@@ -1,0 +1,373 @@
+{
+  "simple_roots_euclidean_columns": [
+    [
+      "0",
+      "1",
+      "-1",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "1",
+      "-1"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "1"
+    ],
+    [
+      "1/2",
+      "-1/2",
+      "-1/2",
+      "-1/2"
+    ]
+  ],
+  "root_count": 48,
+  "weyl_group_order": 1152,
+  "cases": [
+    {
+      "q": 4,
+      "epsilon": 1,
+      "parameter_order": 7,
+      "twist": "long_A2_twist",
+      "twist_matrix_on_characters": [
+        [
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "torus_order": 189,
+      "torus_point_mod_parameter_order": [
+        5,
+        3,
+        1,
+        0
+      ],
+      "annihilating_roots_simple_coordinates": [
+        [
+          -1,
+          -2,
+          -3,
+          -2
+        ],
+        [
+          1,
+          2,
+          3,
+          2
+        ],
+        [
+          -1,
+          -2,
+          -3,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          3,
+          1
+        ]
+      ],
+      "twice_root_squared_length": 2,
+      "centralizer_root_rank": 2,
+      "point_stabilizer_in_W_order": 6,
+      "rational_relative_W": "S3",
+      "ahl_rational_type_comparison": [
+        17,
+        5
+      ]
+    },
+    {
+      "q": 8,
+      "epsilon": -1,
+      "parameter_order": 19,
+      "twist": "long_A2_twist",
+      "twist_matrix_on_characters": [
+        [
+          0,
+          -1,
+          1,
+          0
+        ],
+        [
+          1,
+          -1,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ]
+      ],
+      "torus_order": 4617,
+      "torus_point_mod_parameter_order": [
+        15,
+        10,
+        1,
+        0
+      ],
+      "annihilating_roots_simple_coordinates": [
+        [
+          -1,
+          -2,
+          -3,
+          -2
+        ],
+        [
+          1,
+          2,
+          3,
+          2
+        ],
+        [
+          -1,
+          -2,
+          -3,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          2,
+          3,
+          1
+        ]
+      ],
+      "twice_root_squared_length": 2,
+      "centralizer_root_rank": 2,
+      "point_stabilizer_in_W_order": 6,
+      "rational_relative_W": "S3",
+      "ahl_rational_type_comparison": [
+        17,
+        4
+      ]
+    },
+    {
+      "q": 4,
+      "epsilon": 1,
+      "parameter_order": 7,
+      "twist": "short_A2_twist",
+      "twist_matrix_on_characters": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          -1
+        ]
+      ],
+      "torus_order": 189,
+      "torus_point_mod_parameter_order": [
+        0,
+        1,
+        4,
+        1
+      ],
+      "annihilating_roots_simple_coordinates": [
+        [
+          -2,
+          -3,
+          -4,
+          -2
+        ],
+        [
+          2,
+          3,
+          4,
+          2
+        ],
+        [
+          -1,
+          -3,
+          -4,
+          -2
+        ],
+        [
+          1,
+          3,
+          4,
+          2
+        ],
+        [
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "twice_root_squared_length": 4,
+      "centralizer_root_rank": 2,
+      "point_stabilizer_in_W_order": 6,
+      "rational_relative_W": "S3",
+      "ahl_rational_type_comparison": [
+        13,
+        5
+      ]
+    },
+    {
+      "q": 8,
+      "epsilon": -1,
+      "parameter_order": 19,
+      "twist": "short_A2_twist",
+      "twist_matrix_on_characters": [
+        [
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          0,
+          -1
+        ],
+        [
+          0,
+          0,
+          1,
+          -1
+        ]
+      ],
+      "torus_order": 4617,
+      "torus_point_mod_parameter_order": [
+        0,
+        10,
+        11,
+        1
+      ],
+      "annihilating_roots_simple_coordinates": [
+        [
+          -2,
+          -3,
+          -4,
+          -2
+        ],
+        [
+          2,
+          3,
+          4,
+          2
+        ],
+        [
+          -1,
+          -3,
+          -4,
+          -2
+        ],
+        [
+          1,
+          3,
+          4,
+          2
+        ],
+        [
+          -1,
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          0,
+          0
+        ]
+      ],
+      "twice_root_squared_length": 4,
+      "centralizer_root_rank": 2,
+      "point_stabilizer_in_W_order": 6,
+      "rational_relative_W": "S3",
+      "ahl_rational_type_comparison": [
+        13,
+        4
+      ]
+    }
+  ],
+  "scope": "Exact rational 3'-parameter existence, root centralizers and rational Weyl inertia at q=4,8. This does not identify Brauer blocks, prove ordinary-character exhaustivity, or prove iAM. Those use the separate arguments and sources in type_f4.tex."
+}

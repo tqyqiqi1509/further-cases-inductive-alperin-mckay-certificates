@@ -1,0 +1,39 @@
+{
+  "sympy_version": "1.14.0",
+  "quartic": {
+    "W_order": 16,
+    "R_order": 96,
+    "reflection_count": 6,
+    "reflection_centralizers": [
+      16,
+      16,
+      16,
+      16,
+      16,
+      16
+    ],
+    "reflection_centralizers_abelian": true,
+    "line_determinant_norms": [
+      1,
+      2,
+      4
+    ],
+    "other_determinant_norms": [
+      4,
+      16
+    ],
+    "linear_character_orbits": [
+      1,
+      1,
+      3,
+      3
+    ],
+    "actual_D4_roots_preserved": true
+  },
+  "o8_cover": {
+    "cartan_determinant": 1,
+    "quadratic_zeros": 136,
+    "quadratic_nonzeros": 120,
+    "full_orthogonal_order": 348364800
+  }
+}

@@ -1,0 +1,64 @@
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:1567
+      cand:= AllPrimitiveGroups(
+             ^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:1577
+      cand:= AllPrimitiveGroups(
+             ^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2095
+    if IdGroupsAvailable( n ) then
+       ^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2131
+        result:= IdsOfAllSmallGroups( Size, n,
+                 ^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2145
+        UnloadSmallGroupsData();
+        ^^^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2257
+    cand:= AllTransitiveGroups(
+           ^^^^^^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2565
+    soclefactor:= First( AllSmallGroups( Size, Size( soclefactor ) ),
+                         ^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/gap_runtime/usr/share/gap/pkg/CtblLib/gap4/ctdbattr.g:2667
+    centre:= Filtered( AllSmallGroups( Size, Length( nsg ), IsAbelian, true ),
+                       ^^^^^^^^^^^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:40
+ ids:=Filtered([1..Length(Irr(ct))],j->Irr(ct)[j][1] mod prime<>0 and Irr(ct)[\
+j][zpos]=-Irr(ct)[j][1]);;
+                                           ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:40
+ ids:=Filtered([1..Length(Irr(ct))],j->Irr(ct)[j][1] mod prime<>0 and Irr(ct)[\
+j][zpos]=-Irr(ct)[j][1]);;
+                                                                          ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:40
+ ids:=Filtered([1..Length(Irr(ct))],j->Irr(ct)[j][1] mod prime<>0 and Irr(ct)[\
+j][zpos]=-Irr(ct)[j][1]);;
+                                                                              \
+   ^^^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:40
+ ids:=Filtered([1..Length(Irr(ct))],j->Irr(ct)[j][1] mod prime<>0 and Irr(ct)[\
+j][zpos]=-Irr(ct)[j][1]);;
+                                                                              \
+              ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:42
+ Assert(0,Length(Set(ids,j->bl.block[j]))=1);
+                            ^^
+Syntax warning: Unbound global variable in /workspace/scratch/c8953932d523/wor\
+k/expanded_iAM/checks/o8_weyl_normalizers.g:43
+ Print("FAITHFUL_LOCAL|p=",prime,"|rows=",ids,"|degree_collection=",Collected(\
+List(ids,j->Irr(ct)[j][1])),
+                                                                              \
+                ^^

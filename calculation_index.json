@@ -1,0 +1,91 @@
+{
+  "manuscript": "Further cases of the inductive Alperin–McKay condition",
+  "date": "2026-11-14",
+  "scope": [
+    "A",
+    "2A",
+    "B/C",
+    "whole unipotent D blocks",
+    "D in even defining characteristic",
+    "F4"
+  ],
+  "calculations": [
+    {
+      "program": "checks/check_a_hessian_exhaustive.py",
+      "recorded_outputs": [
+        "checks/check_a_hessian_exhaustive.json"
+      ],
+      "dependency": "Python standard library",
+      "manuscript_location": "Section 7: Hessian normalizer and finite augmentation boundaries"
+    },
+    {
+      "program": "checks/check_root_models.py",
+      "recorded_outputs": [
+        "checks/check_root_models.json",
+        "checks/o8_lattice_mod2.json"
+      ],
+      "dependency": "Python + SymPy 1.14.0",
+      "manuscript_location": "Sections 9 and 12: quartic D4 model and E8 lattice modulo two"
+    },
+    {
+      "program": "checks/check_d4_actual_root_images.py",
+      "recorded_outputs": [
+        "checks/check_d4_actual_root_images.json"
+      ],
+      "dependency": "Python standard library",
+      "manuscript_location": "Section 9: actual D4 root automorphism centralizers"
+    },
+    {
+      "program": "computations/f4_independent_integer.py",
+      "recorded_outputs": [
+        "computations/f4_independent_integer.json"
+      ],
+      "dependency": "Python standard library",
+      "manuscript_location": "Section 11: F4 roots, Weyl matrices, valuation bounds and complements"
+    },
+    {
+      "program": "computations/f4_small_field_source_round2.py",
+      "recorded_outputs": [
+        "computations/f4_small_field_source_round2.json"
+      ],
+      "dependency": "Python standard library",
+      "manuscript_location": "Section 11: mixed-torus sources at q=4 and q=8"
+    },
+    {
+      "program": "computations/f4_small_field_parameters_round3.py",
+      "recorded_outputs": [
+        "computations/f4_small_field_parameters_round3.json"
+      ],
+      "dependency": "Python + SymPy 1.14.0",
+      "manuscript_location": "Section 11: actual rational semisimple parameters at q=4 and q=8"
+    },
+    {
+      "program": "checks/o8_weyl_normalizers.g",
+      "recorded_outputs": [
+        "checks/o8_weyl_normalizers.stdout.txt",
+        "checks/o8_weyl_normalizers.stderr.txt"
+      ],
+      "dependency": "GAP 4.14.0 + CTblLib 1.3.9",
+      "manuscript_location": "Section 12: actual Weyl-group normalizers and local ordinary characters"
+    },
+    {
+      "program": "checks/o8_global_blocks.g",
+      "recorded_outputs": [
+        "checks/o8_global_blocks.stdout.txt",
+        "checks/o8_global_blocks.stderr.txt"
+      ],
+      "dependency": "GAP 4.14.0 + CTblLib 1.3.9",
+      "manuscript_location": "Section 12: global blocks, central characters and outer orbits"
+    },
+    {
+      "program": "checks/quartic_independent.wl",
+      "recorded_outputs": [
+        "checks/quartic_wolfram_result.json"
+      ],
+      "dependency": "Wolfram Language",
+      "manuscript_location": "Section 9: independent quartic D4 matrix calculation"
+    }
+  ],
+  "runner_note": "run_finite_checks.py runs the six Python and two GAP checks. Run the Wolfram file separately as described in README.txt.",
+  "lattice_note": "o8_lattice_mod2.json is an additional recorded snapshot; its data are recomputed in the o8_cover part of check_root_models.py."
+}
